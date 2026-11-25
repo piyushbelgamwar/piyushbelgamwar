@@ -37,19 +37,6 @@ I am a technical lead with around a decade of software engineering experience, f
 ![Cassandra](https://img.shields.io/badge/Cassandra-1F2937?style=flat-square&logo=apachecassandra&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-1F2937?style=flat-square&logo=redis&logoColor=DC382D)
 
-## Selected engineering repositories
-
-| Repository | Focus |
-| --- | --- |
-| [Spring Boot Microservices](https://github.com/piyushbelgamwar/spring-boot-microservices) | Microservices demo with service discovery, gateway, Kubernetes, MySQL, Zipkin and Okta configuration |
-| [Spring Boot Docker](https://github.com/piyushbelgamwar/spring-boot-docker) | Spring Boot and container-oriented exploration |
-| [Kubernetes](https://github.com/piyushbelgamwar/Kubernetes) | Kubernetes-focused repository |
-| [Spring Boot Static Analysis](https://github.com/piyushbelgamwar/spring-boot-static-analysis) | Static analysis and code quality exploration |
-| [Spring JPA](https://github.com/piyushbelgamwar/Spring-JPA) | Spring persistence-focused repository |
-| [LaunchDarkly](https://github.com/piyushbelgamwar/launchdarkly) | Feature management exploration |
-
-These repositories include learning projects and technical experiments, rather than claims of production-ready products.
-
 ## Currently exploring
 
 - **Agentic AI:** multi-agent orchestration, tool calling and human approval.
